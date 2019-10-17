@@ -22,7 +22,6 @@
 
 	   	function simpan_jenissurat($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_level'  => $this->input->post('nama_level'), 
 			);
 
