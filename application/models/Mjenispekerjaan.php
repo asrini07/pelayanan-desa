@@ -22,7 +22,6 @@
 
 	   	function simpan_jenispekerjaan($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_jenis_pekerjaan'  => $this->input->post('nama_jenis_pekerjaan'), 
 			);
 
