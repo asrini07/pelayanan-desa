@@ -25,7 +25,6 @@
 
 	   	function simpan_faculty($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'fakultas_name'  => $this->input->post('fakultas_name'), 
 	   					'id_universitas'  => $this->input->post('id_universitas'), 
 			);
