@@ -22,7 +22,6 @@
 
 	   	function simpan_kewarganegaraan($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_kewarganegaraan'  => $this->input->post('nama_kewarganegaraan'), 
 			);
 
