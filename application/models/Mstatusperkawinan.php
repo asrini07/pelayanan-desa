@@ -22,7 +22,6 @@
 
 	   	function simpan_statusperkawinan($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_status_kawin'  => $this->input->post('nama_status_kawin'), 
 			);
 

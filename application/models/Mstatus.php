@@ -22,7 +22,6 @@
 
 	   	function simpan_status($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_status'  => $this->input->post('nama_status'), 
 			);
 
