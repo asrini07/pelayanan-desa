@@ -22,7 +22,6 @@
 
 	   	function simpan_config($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 						   'kode_prov'  => $this->input->post('kode_prov'), 
 						   'kode_kab'  => $this->input->post('kode_kab'), 
 						   'kode_kec'  => $this->input->post('kode_kec'), 
