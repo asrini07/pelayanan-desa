@@ -22,7 +22,6 @@
 
 	   	function simpan_agama($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_agama'  => $this->input->post('nama_agama'), 
 			);
 
