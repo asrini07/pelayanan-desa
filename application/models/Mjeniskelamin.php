@@ -22,7 +22,6 @@
 
 	   	function simpan_jeniskelamin($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_jenis_kelamin'  => $this->input->post('nama_jenis_kelamin'), 
 			);
 

@@ -22,7 +22,6 @@
 
 	   	function simpan_dusun($aksi) {
 	   		$data = array(
-	   					//'id_fakultas'	 => $this->input->post('id_fakultas'),
 	   					'nama_dusun'  => $this->input->post('nama_dusun'), 
 			);
 
